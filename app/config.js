@@ -22,13 +22,12 @@ System.config({
         }
       },
       "map": {
-        "typescript": "npm:typescript@1.8.0"
+        "typescript": "npm:typescript@1.7.5"
       }
     }
   },
 
   map: {
-    
-    "typescript": "npm:typescript@1.8.0"
+    "typescript": "npm:typescript@1.7.5"
   }
-  });
+});
